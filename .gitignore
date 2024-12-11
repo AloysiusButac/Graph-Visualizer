@@ -1,0 +1,13 @@
+# .gitignore
+
+.vscode
+
+*.exe
+*.dll
+*.txt
+
+src/include/SDL2/
+src/lib/
+# !include/Graph/
+
+sdl2-config
